@@ -1,2 +1,0 @@
-this is a local git repo.
-hello world
